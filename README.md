@@ -1,2 +1,2 @@
 # RL
-Reinforcement Learning Insights. Read PDF for more information.
+Reinforcement Learning Insights. Check PDF for detailed information.
